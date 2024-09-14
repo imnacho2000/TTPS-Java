@@ -41,16 +41,6 @@
   </servlet-mapping>
   <servlet>
     <description></description>
-    <display-name>GenerarQR</display-name>
-    <servlet-name>GenerarQR</servlet-name>
-    <servlet-class>misServlets.GenerarQR</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>GenerarQR</servlet-name>
-    <url-pattern>/GenerarQR</url-pattern>
-  </servlet-mapping>
-  <servlet>
-    <description></description>
     <display-name>Estadisticas</display-name>
     <servlet-name>Estadisticas</servlet-name>
     <servlet-class>misServlets.Estadisticas</servlet-class>
